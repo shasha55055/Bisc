@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>138914182592-c3uvak6db3djlcp8pic5afov1u2crlkf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.138914182592-c3uvak6db3djlcp8pic5afov1u2crlkf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARE_-nHZAo0KV4UHOjUHL4xgj5IwDu2Fk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>138914182592</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.biscuittAi</string>
+	<key>PROJECT_ID</key>
+	<string>biscuitt-21b7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>biscuitt-21b7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:138914182592:ios:f45709ad53e0b656534425</string>
+</dict>
+</plist>

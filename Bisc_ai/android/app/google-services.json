@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "138914182592",
+    "project_id": "biscuitt-21b7d",
+    "storage_bucket": "biscuitt-21b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138914182592:android:0ad3a72da157ea12534425",
+        "android_client_info": {
+          "package_name": "com.example.biscuitt_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138914182592-4u6dcpobmje9m66an6bfbbhl1nn6kg80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0-Gcro2-YgPSdeDuoiHmXRq9akRteGKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138914182592-4u6dcpobmje9m66an6bfbbhl1nn6kg80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138914182592-c3uvak6db3djlcp8pic5afov1u2crlkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.biscuittAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
